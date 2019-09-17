@@ -1,5 +1,4 @@
-# myrubycode
-myrubycodes
+# MyRubyCode
 
 
 Hi
