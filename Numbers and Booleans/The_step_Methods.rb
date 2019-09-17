@@ -10,4 +10,4 @@ end
 
 #Going from one position to another position
 #for example going from 0 to 100 like this 5 , 10 , 15 , 20 , .. , 100
-#going 5 to 5 
+#going 5 to 5
