@@ -1,4 +1,4 @@
-# MyRubyCode
+# Learn How to Ruby
 
 
 Hi
