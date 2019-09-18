@@ -2,10 +2,10 @@
 
 def praise_person(name,age)
   puts "#{name} is amazing"
-  puts "#{name} is #{age} years"
   puts "#{name} is charming"
   puts "#{name} is talented"
   puts "#{name} is #{age} years old"
+  puts "His age in 5 years will be #{age +5}"
 end
 #call the name within the def
 #its worked with or with out ()
