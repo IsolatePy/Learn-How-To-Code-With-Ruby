@@ -2,7 +2,7 @@ puts "hello".capitalize
 
 puts "heLLo". capitalize
 
-puts "hello world".capitalize
+puts "hello world".capitalize.downcase.upcase
 
 
 #capitalize will capitalize the first word of str
