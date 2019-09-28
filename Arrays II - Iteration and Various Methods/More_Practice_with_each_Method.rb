@@ -4,7 +4,6 @@ odds = []
 evens = []
 array.each {|number |number.even? ? evens  << number : odds << number}
 end
-
 p print_evens_and_odds(fives)
 
 
