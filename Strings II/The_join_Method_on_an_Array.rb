@@ -20,3 +20,15 @@ end
 
 p custom_join(names,"-")
 p custom_join(names,"!--!")
+
+
+names = "Boby loves big scary kangaroos mamadfaramarzi mehdiazimimarogaiid"
+
+
+ def longest_word(sentence)
+
+      sentence.split(' ').sort! { |a, b| b.length <=> a.length }[0]
+
+ end
+
+p longest_word(names)

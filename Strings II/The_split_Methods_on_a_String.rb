@@ -1,5 +1,5 @@
 sentence = "Hi , my name is Ali . There are spaces here!"
 
 words = sentence.split(" ")
-
-words.each {|word| puts word.length }
+p words[-1]
+#words.each {|word| puts word.length }
