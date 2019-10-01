@@ -18,7 +18,7 @@ p word_count(sentence)
 
 =end
 
-new_string = "Review the concepts introduced so far in this section of the course."
+new_string = "Once Once upon a time in a land far far far away."
 def word_new(string)
 word = string.split(" ")
 hash = Hash.new(0)

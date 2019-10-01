@@ -5,5 +5,5 @@ puts cars.key?(:kia)
 
 puts cars.value?("aveo")
 # there are same as well
-puts cars.hashas_value?
-puts cars.hashas_key?
+puts cars.has_value?
+puts cars.has_key?
