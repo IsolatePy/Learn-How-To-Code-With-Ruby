@@ -3,7 +3,8 @@ bmi = weight / ((height / 100.0) ** 2)
 end
 
 loop do
-  puts "Do you want to lookup your body fat ? (Y or N)"
+  puts "..:: Welcome To The Body Fat Check System ::.."
+  puts "Do you want to messure your body's fat ? (Y or N)"
   answer = gets.chomp.downcase
   break if answer != "y"
 
