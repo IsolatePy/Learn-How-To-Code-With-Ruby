@@ -16,9 +16,8 @@ class Book
     1.step(@pages,1) {|page| puts "Reading page #{page} ..."}
     puts "Done! #{@title} was a great book!"
 
+  end
 end
-end
-
 
 animal_farm = Book.new("Animal Farm", "George Orwell", 5)
 p animal_farm.read
